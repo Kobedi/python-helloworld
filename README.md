@@ -4,3 +4,4 @@ Docker once more , this time I logged out of Docker.hub. Giv it one more short. 
 What now??? Try with no docker secretes
 #Ok 
 #And now?
+#Thanks
